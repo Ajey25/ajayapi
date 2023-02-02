@@ -1,19 +1,18 @@
 {
-   "book": [
+   "person": [
 
       {
          "id": "01",
-         "language": "Java",
-         "edition": "third",
-         "author": "Herbert Schildt"
+         "name": "ajay",
+         "location": "bajajnagar",
+         "job": "react"
       },
-
-      {
-         "id": "07",
-         "language": "C++",
-         "edition": "second",
-         "author": "E.Balagurusamy"
+   {
+         "id": "01",
+         "name": "mithilesh",
+         "location": "bajajnagar",
+         "job": "web-developer"
       }
-
+    
    ]
 }
