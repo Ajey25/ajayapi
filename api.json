@@ -1,18 +1,6 @@
 {
-   "person": [
-
-      {
          "id": "01",
          "name": "ajay",
          "location": "bajajnagar",
-         "job": "react"
-      },
-   {
-         "id": "01",
-         "name": "mithilesh",
-         "location": "bajajnagar",
-         "job": "web-developer"
-      }
-    
-   ]
+         "job": "react",
 }
